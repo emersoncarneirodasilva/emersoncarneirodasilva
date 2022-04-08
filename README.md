@@ -1,7 +1,7 @@
 ## Olá, me chamo Emerson Carneiro da Silva 👋
 
 - 🔭 Amante de tecnologia!
-- 🌱 Eterno estudante de T.I!
+- 🌱 Eterno estudante de TI!
 - ⚡ Apaixonado por códigos!
 
 <div align="center">
