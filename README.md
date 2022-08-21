@@ -1,8 +1,10 @@
 ## Olá, me chamo Emerson 👋
 
-- 🔭 Amante de tecnologia!
+- 🔭 Amante de tecnologia!                  
 - 🌱 Eterno estudante de TI!
 - ⚡ Apaixonado por códigos!
+
+![demua19-03902eb2-f39f-45d8-b49c-1ff65017a3a7](https://user-images.githubusercontent.com/94311606/185794601-a857d6d0-e9ce-4439-84d9-c4aa27f66398.gif)
 
 <div align="center">
   <a href="https://github.com/emersoncarneirodasilva">
