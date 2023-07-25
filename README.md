@@ -1,4 +1,10 @@
-## Olá, me chamo Emerson 👋
+<div align="center">
+  <h1>
+    <a href="https://github.com/dawidolko/dawidolko">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=635&height=70&lines=Olá%2C+me+chamo+Emerson%F0%9F%91%8B">
+    </a>
+  </h1>
+</div>
 
 - 🔭 Amante de tecnologia!                  
 - 🌱 Eterno estudante de TI!
@@ -6,25 +12,49 @@
 
 ![demua19-03902eb2-f39f-45d8-b49c-1ff65017a3a7](https://user-images.githubusercontent.com/94311606/185794601-a857d6d0-e9ce-4439-84d9-c4aa27f66398.gif)
 
+<br />
+
 <div align="center">
   <a href="https://github.com/emersoncarneirodasilva">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emersoncarneirodasilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersoncarneirodasilva&layout=compact&langs_count=7&theme=blue-green" />
 </div>
-  
-<div style="display: inline_block"><br>  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
-  <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    
+<br />
+<br />
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/emersoncarneirodasilva">
+      <img src="https://img.shields.io/badge/Linguagens:-orange" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,next" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/emersoncarneirodasilva">
+      <img src="https://img.shields.io/badge/Ferramentas:-orange" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab" /> 
+    </a>
+  </p>
 </div>
   
   ##
@@ -33,4 +63,10 @@
   <a href = "mailto:mersiocarneiro87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-carneiro-da-silva-2a9402218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+</div>
+
+<div align="center">
+  <p align="center">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+  </p>
 </div>
