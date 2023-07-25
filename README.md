@@ -21,7 +21,8 @@
 </div>
     
 <br />
-<br />
+
+## **Skills & Tecnologias:**
 
 <div align="center">
   <p align="center">
@@ -57,12 +58,14 @@
   </p>
 </div>
   
-  ##
+## **Conecte-se comigo:**
   
-<div>
-  <a href = "mailto:mersiocarneiro87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emerson-carneiro-da-silva-2a9402218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<div align="center">
+  <p align="center">
+    <a href = "mailto:mersiocarneiro87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/emerson-carneiro-da-silva-2a9402218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>   
+  </p>
 </div>
 
 <div align="center">
