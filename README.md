@@ -27,7 +27,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva">
-      <img src="https://img.shields.io/badge/Linguagens&Frameworks:-blueviolet" />
+      <img src="https://img.shields.io/badge/Linguagens & Frameworks:-blueviolet" />
     </a>
   </p>
 </div>
