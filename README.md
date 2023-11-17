@@ -27,7 +27,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva">
-      <img src="https://img.shields.io/badge/Linguagens:-blueviolet" />
+      <img src="https://img.shields.io/badge/Linguagens&Frameworks:-blueviolet" />
     </a>
   </p>
 </div>
@@ -35,7 +35,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,vite,next" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,next" />
     </a>
   </p>
 </div>
@@ -53,7 +53,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vercel,discord" /> 
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vite,vercel,discord" /> 
     </a>
   </p>
 </div>
