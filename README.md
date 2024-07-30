@@ -6,11 +6,19 @@
   </h1>
 </div>
 
-Sou um desenvolvedor apaixonado por criação de interfaces web e desenvolvimento de software. Minha experiência inclui o uso de HTML, CSS, JavaScript e TypeScript para construir soluções interativas e responsivas. Estou confortável com Tailwind CSS, Sass e Styled Components para estilização e personalização, e tenho experiência em React.js e Next.js para criar aplicações dinâmicas e eficientes.
+<div>
+  <p>    
+    Sou um desenvolvedor apaixonado por criação de interfaces web e desenvolvimento de software. Minha experiência inclui o uso de HTML, CSS, JavaScript e TypeScript para construir     soluções interativas e responsivas. Estou confortável com Tailwind CSS, Sass e Styled Components para estilização e personalização, e tenho experiência em React.js e Next.js para criar aplicações dinâmicas e eficientes.
+  </p>
 
-Estou sempre em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores no desenvolvimento web. Adoro colaborar com outras pessoas apaixonadas por tecnologia e explorar novas ferramentas e técnicas para criar soluções impactantes.
+  <p>  
+    Estou sempre em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores no desenvolvimento web. Adoro colaborar com outras pessoas apaixonadas por tecnologia e explorar novas ferramentas e técnicas para criar soluções impactantes.
+  </p>
 
-Vamos construir algo incrível juntos!
+  <p>  
+    Vamos construir algo incrível juntos!
+  </p>
+</div>
 
 ![demua19-03902eb2-f39f-45d8-b49c-1ff65017a3a7](https://user-images.githubusercontent.com/94311606/185794601-a857d6d0-e9ce-4439-84d9-c4aa27f66398.gif)
 
