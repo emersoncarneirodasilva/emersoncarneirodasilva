@@ -7,15 +7,15 @@
 </div>
 
 <div>
-  <p>    
+  <p style="font-size: 24px;">    
     Sou um desenvolvedor apaixonado por criação de interfaces web e desenvolvimento de software. Minha experiência inclui o uso de HTML, CSS, JavaScript e TypeScript para construir     soluções interativas e responsivas. Estou confortável com Tailwind CSS, Sass e Styled Components para estilização e personalização, e tenho experiência em React.js e Next.js para criar aplicações dinâmicas e eficientes.
   </p>
 
-  <p>  
+  <p style="font-size: 24px;">  
     Estou sempre em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores no desenvolvimento web. Adoro colaborar com outras pessoas apaixonadas por tecnologia e explorar novas ferramentas e técnicas para criar soluções impactantes.
   </p>
 
-  <p>  
+  <p style="font-size: 24px;">  
     Vamos construir algo incrível juntos!
   </p>
 </div>
