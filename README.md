@@ -45,7 +45,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,next" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,next,nodejs,express,prisma" />
     </a>
   </p>
 </div>
@@ -63,7 +63,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,vite,vercel,discord,wordpress,figma" /> 
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,obsidian,postman,vite,vercel,discord,wordpress,figma" /> 
     </a>
   </p>
 </div>
