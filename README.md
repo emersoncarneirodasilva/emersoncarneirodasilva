@@ -63,7 +63,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,obsidian,postman,vite,vercel,discord,wordpress,figma" /> 
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,obsidian,postman,vite,vercel,supabase,discord,wordpress,figma" /> 
     </a>
   </p>
 </div>
