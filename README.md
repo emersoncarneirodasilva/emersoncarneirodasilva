@@ -45,7 +45,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/emersoncarneirodasilva?tab=repositories">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,next,nodejs,express,prisma,postgres" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,styledcomponents,react,next,nodejs,express,electron,prisma,postgres" />
     </a>
   </p>
 </div>
