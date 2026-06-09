@@ -7,15 +7,20 @@
 </div>
 
 <div>
-  <p style="font-size: 24px;">    
-    Sou um desenvolvedor apaixonado por criação de interfaces web e desenvolvimento de software. Minha experiência inclui o uso de HTML, CSS, JavaScript e TypeScript para construir     soluções interativas e responsivas. Estou confortável com Tailwind CSS, Sass e Styled Components para estilização e personalização, e tenho experiência em React.js e Next.js para criar aplicações dinâmicas e eficientes.
+  <p style="font-size: 24px;">
+    Desenvolvedor Full-Stack apaixonado por transformar conceitos complexos em interfaces imersivas. 
+    Minha trajetória combina o rigor analítico da pesquisa científica com a criatividade no desenvolvimento de software. 
+    Especialista em criar ecossistemas web performáticos, utilizando <strong>Next.js, TypeScript, Node.js e Tailwind CSS</strong> para entregar experiências de alto impacto.
   </p>
 
-  <p style="font-size: 24px;">  
-    Estou sempre em busca de oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores no desenvolvimento web. Adoro colaborar com outras pessoas apaixonadas por tecnologia e explorar novas ferramentas e técnicas para criar soluções impactantes.
+  <p style="font-size: 24px;">
+    Tenho experiência real no desenvolvimento de marketplaces escaláveis e integrações complexas entre front e back-end. 
+    Estou sempre explorando novas tecnologias e arquiteturas modernas para elevar o padrão das interfaces que construo, 
+    focando sempre na qualidade, eficiência do código e na experiência do usuário final.
   </p>
 
-  <p style="font-size: 24px;">  
+  <p style="font-size: 24px;">
+    Adoro colaborar com times apaixonados por tecnologia e estou em busca de novos desafios onde possa aplicar minha experiência.
     Vamos construir algo incrível juntos!
   </p>
 </div>
