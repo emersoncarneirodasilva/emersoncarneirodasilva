@@ -8,20 +8,23 @@
 
 <div>
   <p style="font-size: 24px;">
-    Desenvolvedor Full-Stack apaixonado por transformar conceitos complexos em interfaces imersivas. 
-    Minha trajetória combina o rigor analítico da pesquisa científica com a criatividade no desenvolvimento de software. 
-    Especialista em criar ecossistemas web performáticos, utilizando <strong>Next.js, TypeScript, Node.js e Tailwind CSS</strong> para entregar experiências de alto impacto.
+     Desenvolvedor Full Stack com formação em Química (Mestrado pela UFRN) e experiência no desenvolvimento de aplicações web modernas. 
+     Minha trajetória em pesquisa científica fortaleceu uma abordagem analítica voltada à resolução de problemas, arquitetura de software e 
+     construção de soluções escaláveis.
   </p>
 
   <p style="font-size: 24px;">
-    Tenho experiência real no desenvolvimento de marketplaces escaláveis e integrações complexas entre front e back-end. 
-    Estou sempre explorando novas tecnologias e arquiteturas modernas para elevar o padrão das interfaces que construo, 
-    focando sempre na qualidade, eficiência do código e na experiência do usuário final.
+    Trabalho principalmente com Next.js, React, TypeScript, Node.js, PostgreSQL e Tailwind CSS, desenvolvendo aplicações completas, desde a 
+    interface até APIs, banco de dados e implantação.
   </p>
 
   <p style="font-size: 24px;">
-    Adoro colaborar com times apaixonados por tecnologia e estou em busca de novos desafios onde possa aplicar minha experiência.
-    Vamos construir algo incrível juntos!
+    Neste GitHub você encontrará projetos que refletem meu interesse por desenvolvimento de produtos digitais, engenharia de software e boas 
+    práticas de arquitetura. Gosto de construir aplicações que priorizam organização, desempenho, manutenibilidade e uma boa experiência para o usuário.
+  </p>
+
+   <p style="font-size: 24px;">
+    Estou sempre estudando novas tecnologias e compartilhando projetos que contribuam para minha evolução como desenvolvedor.
   </p>
 </div>
 
